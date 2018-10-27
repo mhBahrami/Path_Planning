@@ -45,6 +45,8 @@ Generated trajectory meets all the criteria in the rubric:
 5. The car stays in its lane, except for the time between changing lanes.
 6. The car is able to change lanes
 
+### Recorded Video
+
 You can watch the recorded video on [YouTube](https://youtu.be/o7HwBBmaOyc).
 
 ### Implementation Description
